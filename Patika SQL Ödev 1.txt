@@ -1,0 +1,5 @@
+--(Ödev 1 Soru 1)select title,description from film;
+--(Ödev 1 Soru 2)select * from film where length > 60 and length < 75
+--(Ödev 1 Soru 3)select * from film where replacement_cost = 12.99 or replacement_cost = 28.99 and rental_rate = 0.99
+--(Ödev 1 Soru 4)select first_name,last_name from customer where first_name='Mary'
+--(Ödev 1 Soru 5)select * from film where length < 50 and rental_rate != 2.99 and rental_rate != 4.99
